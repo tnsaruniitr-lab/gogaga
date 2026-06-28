@@ -24,10 +24,11 @@ Set up **Meta** and **Google** in **parallel**. The critical-path item on both i
 
 ## 1. Meta track
 
-### 1a. Business Portfolio + Verification *(critical path — start today)*
-- [ ] Create / confirm one **Business Portfolio** (Business Manager) for dreampost.
-- [ ] Submit **Business Verification** (Business Settings → Security Center). **5–15
-      business days.** Blocks WhatsApp template messaging and lifts ad-account/domain caps.
+### 1a. Business Portfolio + Verification ✅ *(DONE)*
+- [x] Create / confirm one **Business Portfolio** (Business Manager) for dreampost.
+- [x] **Business Verification COMPLETE.** ✅ Unlocks WhatsApp template messaging and
+      lifts ad-account/domain caps. Also a prerequisite (with App Review) for Advanced
+      Access to `ads_management`.
 
 ### 1b. Ad accounts (separate per brand — contains ban contagion)
 - [ ] Create ad account **AstroLove**.
@@ -97,12 +98,17 @@ Set up **Meta** and **Google** in **parallel**. The critical-path item on both i
 
 ## Critical-path summary
 
-| Item | Platform | Lead time | Blocks |
-|------|----------|-----------|--------|
-| Business Verification | Meta | 5–15 business days | WhatsApp templates, account/domain limits |
-| Advertiser/Business Verification | Google | days–weeks | Ad serving |
-| Developer token | Google | days–weeks | API automation only |
-| App Review (`ads_management`) | Meta | ~2 weeks | API automation at scale only |
+| Item | Platform | Lead time | Status | Blocks |
+|------|----------|-----------|--------|--------|
+| Business Verification | Meta | 5–15 business days | ✅ **DONE** | — |
+| Advertiser/Business Verification | Google | days–weeks | ⏳ **pending — start now** | Ad serving |
+| Developer token | Google | days–weeks | ⏳ pending | API automation only |
+| App Review (`ads_management`) | Meta | ~2 weeks | ⏳ pending | API automation at scale only |
 
-**Do today:** both verifications + (if going API) both access applications. Everything
-else can run in parallel while these process.
+**Now the long pole is the Google track.** Meta Business Verification is done, so on the
+Google side: start **Advertiser Identity Verification** today (and prep incorporation /
+business-model docs for the likely Business Operations Verification). Everything else
+runs in parallel.
+
+> Note: Meta Business Verification does **not** cover Google — Google's verification is a
+> completely separate process on its own timeline.
