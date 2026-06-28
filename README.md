@@ -23,6 +23,7 @@ This repo currently holds the **plan**, not the application. Start here:
 | [`docs/account-setup-checklist.md`](./docs/account-setup-checklist.md) | Step-by-step account, billing & verification setup for both platforms |
 | [`docs/ad-policy-compliance.md`](./docs/ad-policy-compliance.md) | **Critical.** Astrology/love-niche ad-policy rules + banned-phrase linter |
 | [`docs/api-notes.md`](./docs/api-notes.md) | Current API versions, auth model, key facts & gotchas (mid-2026) |
+| [`docs/ideas-why-now.md`](./docs/ideas-why-now.md) | 8 adjacent product ideas ranked by **"why now"** timing strength (deep-research, mid-2026) |
 
 ## TL;DR recommendation
 
